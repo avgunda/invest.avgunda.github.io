@@ -2,7 +2,7 @@
 layout: post
 title: "Gauging Market Conditions for Better Investment Timing"
 date: 2026-01-17
-categories: investment
+categories: [investment]
 ---
 
 Understanding market conditions is essential for timing your investments, whether in stocks or mutual funds. Gauging the overall market sentiment, breadth, and valuation can help identify periods of opportunity, such as when the market is oversold or undervalued. Below, we explore key indicators and filters to assess market conditions.

@@ -1,12 +1,12 @@
 ---
 layout: page
-permalink: /categories/investment/
+permalink: /categories/general/
 ---
 
 <div class="category-posts">
-  <h1>Investment Posts</h1>
+  <h1>General Posts</h1>
   <ul class="post-list">
-    {% assign sorted_posts = site.categories.investment | sort: 'date' | reverse %}
+    {% assign sorted_posts = site.categories.general | sort: 'date' | reverse %}
     {% for post in sorted_posts %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>

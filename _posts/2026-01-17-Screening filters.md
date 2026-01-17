@@ -2,7 +2,7 @@
 layout: post
 title: "Important Filters for Initial Stock Screening and Picking"
 date: 2026-01-17
-categories: investment
+categories: [investment]
 ---
 
 When screening and picking stocks for investment, it's crucial to apply a set of filters to identify fundamentally strong companies at reasonable valuations. Below are key metrics categorized into constraints, foundation filters, valuation filters, and other filters to consider.

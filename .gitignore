@@ -1,0 +1,24 @@
+# Jekyll generated files
+_site/
+.sass-cache/
+.jekyll-cache/
+
+# Bundler
+.bundle/
+vendor/
+
+# Ruby version
+.ruby-version
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
