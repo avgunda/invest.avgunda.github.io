@@ -10,7 +10,7 @@ When screening and picking stocks for investment, it's crucial to apply a set of
 ## Constraints
 These are basic thresholds to ensure the company is stable and of sufficient size:
 - **Debt to Equity Ratio < 0.5**: High debt can burden small companies during economic downturns due to interest costs.
-- **Market Cap > 3000 Cr**: Focus on mid-to-large cap companies for better liquidity and stability.
+- **Market Cap > 1000 Cr**: Focus on mid-to-large cap companies for better liquidity and stability.
 - **Market Cap < 20000 Cr**: Avoid very large cap companies that may be less dynamic.
 
 ## Foundation Filters
@@ -24,9 +24,9 @@ These assess the company's growth and profitability fundamentals:
 
 ## Valuation Filters
 These ensure the stock is not overpriced:
-- **PEG < 2**: Price to Earnings Growth ratio should be reasonable, indicating fair valuation relative to growth.
+- **PEG < 1**: Price to Earnings Growth ratio should be reasonable, indicating fair valuation relative to growth. As the PEG ratio given in screener.in is based on 3-year trailing EPS growth, and a future growth estimate is ideal for PEG calculation, a PEG < 1 based on trailing growth is a conservative filter.
 - **PE < 1.5 * Industry Median PE**: Price to Earnings ratio should not exceed 1.5 times the industry average.
-- **PE < 0.5 * Median PE 3Yr**: Current PE should be less than half of the median PE over the past three years.
+- **PE < 0.75 * Median PE 5Yr**: Current PE should be at least less than 0.75 times the median PE over the past five years.
 
 ## Other Filters
 Additional checks for financial health and operational quality:
