@@ -10,7 +10,8 @@ When screening and picking stocks for investment, it's crucial to apply a set of
 ## Constraints
 These are basic thresholds to ensure the company is stable and of sufficient size:
 - **Debt to Equity Ratio < 0.5**: High debt can burden small companies during economic downturns due to interest costs.
-- **Market Cap > 5000 Cr**: Focus on mid-to-large cap companies for better liquidity and stability.
+- **Market Cap > 3000 Cr**: Focus on mid-to-large cap companies for better liquidity and stability.
+- **Market Cap < 20000 Cr**: Avoid very large cap companies that may be less dynamic.
 
 ## Foundation Filters
 These assess the company's growth and profitability fundamentals:
@@ -36,8 +37,3 @@ Additional checks for financial health and operational quality:
 - **Promoter Pledging < 5%**: Low promoter pledging reduces risk of forced selling.
 - **Capex Expansion or Completion**: Look for companies investing in growth or completing projects.
 - **Related Party Transactions**: Should be minimal and transparent.
-
-## Filters for Lumpsum Investment in MFs
-For mutual fund investments:
-- **Market Breadth: % of Stocks Greater than 50D/100D/200D EMA < 30%**: Indicates a bearish market, good for lumpsum entry.
-- **Index < -10% of 52W High**: Market is significantly below its 52-week high, suggesting undervaluation.
