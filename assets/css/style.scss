@@ -3,6 +3,11 @@
 
 @import "minima";
 
+html, body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
 // Medium-inspired modern theme
 body {
   font-family: 'Charter', 'Bitstream Charter', 'Sitka Text', Georgia, serif;

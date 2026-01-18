@@ -7,7 +7,7 @@ categories: [companies, investment]
 
 _**Disclaimer: This analysis is for educational purposes only and does not constitute financial advice. Please conduct your own research or consult a financial advisor before making investment decisions.**_
 
-## 1. Executive Summary and Investment Thesis
+## 1. Summary
 
 ### 1.1 The Emerging CDMO Play in Preventive Healthcare
 
@@ -17,7 +17,7 @@ The company operates at the intersection of pharmaceutical rigor and consumer go
 
 However, the thesis is nuanced by distinct risks. The company exhibits classic micro-cap characteristics: high promoter ownership (over 73%), significant client concentration risk (particularly with Novus Life Sciences), and a balance sheet that is currently expanding its working capital cycle to support growth.1 The recent financial performance in the first half of FY26—registering 39% revenue growth and 61% EBITDA growth—validates the demand for its services but also highlights the operational strain of managing rapid scaling without external debt leverage.1
 
-### **1.2 Valuation Context and Strategic Pivot**
+### 1.2 Valuation Context and Strategic Pivot
 
 Trading at a Price-to-Earnings (P/E) multiple of approximately 29.3x to 36.6x (depending on the trailing twelve-month capture), Influx commands a premium over some peers like Windlas Biotech (\~26x) but trails high-growth specialty chemical players.3 This valuation reflects the market's pricing of its superior margin profile—an EBITDA margin of nearly 22% in H1 FY26 compared to the 12-15% industry average—and its Return on Equity (ROE) of roughly 37%, which remains best-in-class despite recent dilution from the IPO.1
 
@@ -300,7 +300,7 @@ Influx Healthtech Ltd is a **High-Risk, High-Reward** bet on the Indian preventi
 
 #### Works cited
 
-1. INFLUX\_18112025161632\_181125IHLEarningscallTranscriptsSigned.pdf  
+1. Company's Annual Reports, Quarterly Earnings Releases, and Investor Presentations
 2. Influx Healthtech Ltd share price | About Influx Health. | Key Insights \- Screener, accessed January 17, 2026, [https://www.screener.in/company/INFLUX/](https://www.screener.in/company/INFLUX/)  
 3. Influx Healthtech Limited (NSEI:INFLUX) P/E Ratio \- Investing.com, accessed January 17, 2026, [https://www.investing.com/pro/NSEI:INFLUX/explorer/pe\_ltm](https://www.investing.com/pro/NSEI:INFLUX/explorer/pe_ltm)  
 4. Influx Healthtech Ltd. Share Price Today, Market Cap, Price Chart, Balance Sheet, accessed January 17, 2026, [https://ticker.finology.in/company/INFLUX](https://ticker.finology.in/company/INFLUX)  
