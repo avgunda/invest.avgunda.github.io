@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sigachi Industries Limited: Investment Analysis"
-date: 2026-01-17
+date: 2026-01-18
 categories: [companies, investment]
 ---
 
