@@ -8,4 +8,4 @@ This blog is dedicated to sharing investment research, stock analysis, and insig
 
 Author: Akshay Gunda
 
-Feel free to contact me for discussions.
+Feel free to contact me via [contact@avgunda.xyz](mailto:contact@avgunda.xyz) for discussions.
