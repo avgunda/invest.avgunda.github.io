@@ -208,7 +208,7 @@ Investors must weigh the high growth potential against significant execution ris
 4. **Raw Material Volatility:** Steel, Aluminum, and Lithium prices directly impact margins. The Q2 margin compression is a live example of this risk.
 
 
-## 9. Future Outlook & Stock Price Projections
+## 9. Future Outlook
 
 ### 9.1 Revenue Growth Drivers
 
